@@ -1,0 +1,38 @@
+.die-face-false,
+.die-face-true {
+  height: 50px;
+  width: 50px;
+
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+.die-face-false {
+  background-color: white;
+}
+
+.die-face-true {
+  background-color: #59e391;
+}
+
+.die-number {
+  font-size: 26px;
+}
+
+.roll-dice {
+  background: #5035ff;
+  width: 120px;
+  height: 40px;
+  border: none;
+  color: white;
+  margin-top: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 1px;
+}

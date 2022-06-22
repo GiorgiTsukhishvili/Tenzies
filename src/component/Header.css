@@ -1,0 +1,16 @@
+.header-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  color: #2b283a;
+}
+
+.header-pharagrap {
+  width: 80%;
+  text-align: center;
+  color: #4a4e74;
+}
